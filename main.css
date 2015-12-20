@@ -1,0 +1,39 @@
+body{
+	background-color: #FFFFFF;
+	font-family: Garamond,script;
+}
+
+#top{
+	background-color: #459DEC;
+	font-weight: bold;	
+	padding: 20px;	
+}
+
+span{
+	margin-right: 10px;	
+}
+
+h1{
+	font-size: 36px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+#stories{
+	margin-top: -10px;
+	background-color: #DDDDDD;	
+}
+
+.story{
+	height: relative;
+	padding-bottom: 15px;
+	text-align: center;
+	border-bottom: 2px solid #000000;
+	font-weight: bold;
+	font-size: 24px;
+	text-decoration: none;
+	color: #459DEC;
+}
+
